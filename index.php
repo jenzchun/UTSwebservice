@@ -60,7 +60,7 @@ function renderTime(){
 			<br><br><br>
 		<div align=center>
 			<form action="kondisi.php" method="get">
-			<input class="btnForm" type="submit" name="submit" value="Perkiraan cuaca 10 hari ke depan"/>
+			<input class="btnForm" type="submit" name="submit" value="Perkiraan cuaca 9 hari ke depan"/>
 			</form>
 </div>
 </body>
